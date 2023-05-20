@@ -8,7 +8,7 @@
 - 부원들의 협업능력을 키우고자 합니다.
 
 
-### repository guidline
+### repository guideline
 - 제목 : '프로젝트 이름 - 해당 프로젝트 진행 시작 학기'
 - readme 파일 필수 생성 
 - 코드 리뷰 적극 활용
