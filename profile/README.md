@@ -8,7 +8,9 @@
 - 부원들의 전문성을 늘리고자 합니다.
 - 부원들의 협업능력을 키우고자 합니다.
 
-## repository guideline
+## project guideline
+
+### repository 권장사항
 
 - 제목 : '프로젝트 이름 - 해당 프로젝트 진행 시작 학기'
 - readme 파일 필수 생성 
